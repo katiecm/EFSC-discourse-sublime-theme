@@ -21,5 +21,9 @@
       "header_background": "111111",
       "header_primary": "dddddd"
     }
-  }
+  },
+  "components": [
+    "https://github.com/discourse/discourse-loading-slider.git",
+    "https://github.com/discourse/discourse-search-banner.git"
+  ]
 }
