@@ -1,9 +1,7 @@
 {
-  "about_url": null,
-  "license_url": null,
-  "assets": {
-  },
   "name": "🌸 Sublime Theme",
+  "about_url": "https://meta.discourse.org/t/discourse-sublime-theme/242048",
+  "license_url": "https://github.com/discourse/discourse-sublime-theme/blob/main/LICENSE",
   "color_schemes": {
     "sublime-light": {
       "primary": "000000",
